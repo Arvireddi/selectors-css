@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+.place{
+    color: rgb(2, 78, 2);
+    font-weight: bold;
+    background-color: yellow;
+}
+#orderlist{
+    list-style-type: none;
+}
+.place1{
+    color: rgb(233, 3, 3);
+    font-weight: bold;
+    background-color: rgb(27, 238, 41);
+}
+.place2{
+    color: rgb(13, 25, 193);
+    font-weight: bold;
+    background-color: rgb(74, 210, 220);
+}
+.place3{
+    color: rgb(226, 236, 226);
+    font-weight: bold;
+    background-color: rgb(213, 20, 20);
+}
+.place4{
+    color: rgb(199, 195, 200);
+    font-weight: bold;
+    background-color: rgb(141, 5, 122);
+}
+.place5{
+    color: rgb(6, 49, 143);
+    font-weight: bold;
+    background-color: rgb(224, 224, 222);
+}
+.font-size{
+    font-size: 25px;
+}
+#heading{
+    color:white;
+    background-color: blue;
+    text-align: center;
+
+}
+#heading1{
+    color:rgb(10, 4, 4);
+    background-color: orange;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+.para{
+    color: black;
+    background-color: orange;
+    padding: 10px;
+    text-indent: 50px;
+    word-spacing: 5px;
+    line-height: 25px;
+}
+.para1{
+    color: white;
+    background-color: black;
+    padding: 10px;
+    text-indent: 50px;
+    word-spacing: 5px;
+    line-height: 25px;
+}
+#image{
+    height:400px;
+    width: 40%;
+   
+}
+.image1{
+    height: 400px;
+    width: 40%;
+}
